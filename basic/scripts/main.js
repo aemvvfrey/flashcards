@@ -20,7 +20,7 @@ myFlashcards.push(new question('What are the products of photosynthesis?', 'suga
 let i = 0;
 while (i < myFlashcards.length)  {
   console.log(myFlashcards[i].question + ' ' + myFlashcards[i].answer);
-  alert(myflashcards[i].question);
+  alert(myFlashcards[i].question);
   ++i
   // In iteration loop display question from object
 const questionObject = {
